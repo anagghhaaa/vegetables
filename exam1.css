@@ -143,7 +143,7 @@
 
 
 .banner1{
-    background-image: url("./media/fruitbg.jpg");
+    background-image: url("./images/fruitbg.jpg");
 
     width: 100%;
     height: 650px;
@@ -151,7 +151,7 @@
     background-color: white;
 }
 .banner2{
-    background-image: url("./media/bgimg1.jpg");
+    background-image: url("./images/bgimg1.jpg");
 
     width: 100%;
     height: 700px;
